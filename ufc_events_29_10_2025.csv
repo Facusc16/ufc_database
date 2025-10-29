@@ -1,0 +1,754 @@
+name,date,time_zone,country,state,city,venue
+UFC 321: Aspinall vs. Gane,2025-10-25T14:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC Fight Night: De Ridder vs. Allen,2025-10-18T20:00Z,GMT-07:00,Canada,British Columbia,Vancouver,Rogers Arena
+UFC Fight Night: Oliveira vs. Gamrot,2025-10-11T20:00Z,GMT-03:00,Brazil,Rio de Janeiro,Rio de Janeiro,Farmasi Arena
+UFC 320: Ankalaev vs. Pereira 2,2025-10-04T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Ulberg vs. Reyes,2025-09-27T23:00Z,GMT+08:00,Australia,Western Australia,Perth,RAC Arena
+UFC Fight Night: Lopes vs. Silva,2025-09-13T19:00Z,GMT-05:00,USA,Texas,San Antonio,Frost Bank Center
+UFC Fight Night: Imavov vs. Borralho,2025-09-06T16:00Z,GMT+02:00,France,Ile-de-France,Paris,Accor Arena
+UFC Fight Night: Walker vs. Zhang,2025-08-23T07:00Z,GMT+08:00,China,Hebei,Shanghai,Shanghai Indoor Arena
+UFC 319: Du Plessis vs. Chimaev,2025-08-16T22:30Z,GMT-05:00,USA,Illinois,Chicago,United Center
+UFC Fight Night: Dolidze vs. Hernandez,2025-08-09T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Taira vs. Park,2025-08-02T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Whittaker vs. De Ridder,2025-07-26T16:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC 318: Holloway vs. Poirier 3,2025-07-19T22:00Z,GMT-05:00,USA,Louisiana,New Orleans,Smoothie King Center
+UFC Fight Night: Lewis vs. Teixeira,2025-07-12T22:00Z,GMT-05:00,USA,Tennessee,Nashville,Bridgestone Arena
+UFC 317: Topuria vs. Oliveira,2025-06-28T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Hill vs. Rountree Jr.,2025-06-21T16:00Z,GMT+04:00,Azerbaijan,,Baku,Baku Crystal Hall
+UFC Fight Night: Usman vs. Buckley,2025-06-14T23:00Z,GMT-04:00,USA,Georgia,Atlanta,State Farm Arena
+UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07T22:00Z,GMT-04:00,USA,New Jersey,Newark,Prudential Center
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Burns vs. Morales,2025-05-17T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10T22:30Z,GMT-04:00,Canada,Quebec,Montreal,Bell Centre
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03T23:00Z,GMT-05:00,USA,Iowa,Des Moines,Wells Fargo Arena
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26T22:00Z,GMT-05:00,USA,Missouri,Kansas City,T-Mobile Center
+UFC 314: Volkanovski vs. Lopes,2025-04-12T22:00Z,GMT-04:00,USA,Florida,Miami,Kaseya Center
+UFC Fight Night: Emmett vs. Murphy,2025-04-05T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Moreno vs. Erceg,2025-03-29T20:00Z,GMT-06:00,Mexico,Distrito Federal,Mexico City,Arena CDMX
+UFC Fight Night: Edwards vs. Brady,2025-03-22T17:00Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 313: Pereira vs. Ankalaev,2025-03-09T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Kape vs. Almabayev,2025-03-01T21:30Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Cejudo vs. Song,2025-02-22T23:00Z,GMT-08:00,USA,Washington,Seattle,Climate Pledge Arena
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08T23:30Z,GMT+11:00,Australia,New South Wales,Sydney,Qudos Bank Arena
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01T14:00Z,GMT+03:00,Saudi Arabia,Riyadh,Riyadh,anb Arena
+UFC 311: Makhachev vs. Moicano,2025-01-18T23:00Z,GMT-08:00,USA,California,Inglewood,Intuit Dome
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Covington vs. Buckley,2024-12-15T00:00Z,GMT-05:00,USA,Florida,Tampa,Amalie Arena
+UFC 310: Pantoja vs. Asakura,2024-12-07T23:00Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23T08:00Z,GMT+08:00,China,,Macau,Galaxy Arena
+UFC 309: Jones vs. Miocic,2024-11-16T23:00Z,GMT-05:00,USA,New York,New York City,Madison Square Garden
+UFC Fight Night: Magny vs. Prates,2024-11-09T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Moreno vs. Albazi,2024-11-02T21:00Z,GMT-06:00,Canada,Alberta,Edmonton,Rogers Place
+UFC 308: Topuria vs. Holloway,2024-10-26T14:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Royval vs. Taira,2024-10-12T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05T22:30Z,GMT-06:00,USA,Utah,Salt Lake City,Delta Center
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28T16:00Z,GMT+02:00,France,Ile-de-France,Paris,Accor Arena
+UFC 306: Riyadh Season Noche UFC,2024-09-14T23:30Z,GMT-07:00,USA,Nevada,Las Vegas,Sphere
+UFC Fight Night: Burns vs. Brady,2024-09-07T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 305: Du Plessis vs. Adesanya,2024-08-17T22:30Z,GMT+08:00,Australia,Western Australia,Perth,RAC Arena
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10T21:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03T16:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC 304: Edwards vs. Muhammad 2,2024-07-27T22:00Z,GMT+01:00,United Kingdom,England,Manchester,Co-op Live
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20T21:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13T23:00Z,GMT-06:00,USA,Colorado,Denver,Ball Arena
+UFC 303: Pereira vs. Prochazka 2,2024-06-29T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22T16:00Z,GMT+03:00,Saudi Arabia,Riyadh,Riyadh,Kingdom Arena
+UFC Fight Night: Perez vs. Taira,2024-06-15T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08T21:00Z,GMT-04:00,USA,Kentucky,Louisville,KFC Yum! Center
+UFC 302: Makhachev vs. Poirier,2024-06-01T22:00Z,GMT-04:00,USA,New Jersey,Newark,Prudential Center
+UFC Fight Night: Barboza vs. Murphy,2024-05-18T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11T20:00Z,GMT-05:00,USA,Missouri,St. Louis,Enterprise Center
+UFC 301: Pantoja vs. Erceg,2024-05-04T22:00Z,GMT-03:00,Brazil,Rio de Janeiro,Rio de Janeiro,Farmasi Arena
+UFC Fight Night: Nicolau vs. Perez,2024-04-27T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 300: Pereira vs. Hill,2024-04-13T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06T19:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30T23:00Z,GMT-04:00,USA,New Jersey,Atlantic City,Boardwalk Hall
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 299: O'Malley vs. Vera 2,2024-03-09T23:00Z,GMT-05:00,USA,Florida,Miami,Kaseya Center
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02T18:30Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Moreno vs. Royval 2,2024-02-25T00:00Z,GMT-06:00,Mexico,Distrito Federal,Mexico City,Arena CDMX
+UFC 298: Volkanovski vs. Topuria,2024-02-17T23:30Z,GMT-08:00,USA,California,Anaheim,Honda Center
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 297: Strickland vs. Du Plessis,2024-01-20T23:30Z,GMT-05:00,Canada,Ontario,Toronto,Scotiabank Arena
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 296: Edwards vs. Covington,2023-12-16T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Song vs. Gutierrez,2023-12-10T00:30Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02T21:00Z,GMT-06:00,USA,Texas,Austin,Moody Center
+UFC Fight Night: Allen vs. Craig,2023-11-18T19:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 295: Prochazka vs. Pereira,2023-11-11T23:00Z,GMT-05:00,USA,New York,New York City,Madison Square Garden
+UFC Fight Night: Almeida vs. Lewis,2023-11-04T22:00Z,,Brazil,Sao Paulo,Sao Paulo,Ginasio do Ibirapuera
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21T14:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Dawson vs. Green,2023-10-07T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Grasso vs. Shevchenko 2,2023-09-16T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC 293: Adesanya vs. Strickland,2023-09-09T22:30Z,GMT+10:00,Australia,New South Wales,Sydney,Qudos Bank Arena
+UFC Fight Night: Gane vs. Spivac,2023-09-02T16:30Z,GMT+02:00,France,Ile-de-France,Paris,Accor Arena
+UFC Fight Night: Holloway vs. The Korean Zombie,2023-08-26T09:00Z,GMT+08:00,Singapore,,Kallang,Singapore Indoor Stadium
+UFC 292: Sterling vs. O'Malley,2023-08-19T22:30Z,GMT-04:00,USA,Massachusetts,Boston,TD Garden
+UFC Fight Night: Luque vs. Dos Anjos,2023-08-12T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Sandhagen vs. Font,2023-08-05T22:00Z,GMT-05:00,USA,Tennessee,Nashville,Bridgestone Arena
+UFC 291: Poirier vs. Gaethje 2,2023-07-29T23:00Z,GMT-06:00,USA,Utah,Salt Lake City,Delta Center
+UFC Fight Night: Aspinall vs. Tybura,2023-07-22T16:00Z,GMT+01:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Holm vs. Bueno Silva,2023-07-15T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 290: Volkanovski vs. Rodriguez,2023-07-08T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Strickland vs. Magomedov,2023-07-01T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Emmett vs. Topuria,2023-06-24T15:30Z,GMT-04:00,USA,Florida,Jacksonville,Vystar Veterans Memorial Arena
+UFC Fight Night: Vettori vs. Cannonier,2023-06-17T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 289: Nunes vs. Aldana,2023-06-10T23:00Z,GMT-07:00,Canada,British Columbia,Vancouver,Rogers Arena
+UFC Fight Night: Kara-France vs. Albazi,2023-06-03T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Dern vs. Hill,2023-05-20T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Rozenstruik vs. Almeida,2023-05-13T16:00Z,GMT-04:00,USA,North Carolina,Charlotte,Spectrum Center
+UFC 288: Sterling vs. Cejudo,2023-05-06T22:30Z,GMT-04:00,USA,New Jersey,Newark,Prudential Center
+UFC Fight Night: Song vs. Simon,2023-04-29T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Pavlovich vs. Blaydes,2023-04-22T20:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Holloway vs. Allen,2023-04-15T21:30Z,GMT-05:00,USA,Missouri,Kansas City,T-Mobile Center
+UFC 287: Pereira vs. Adesanya 2,2023-04-08T22:00Z,GMT-04:00,USA,Florida,Miami,Kaseya Center
+UFC Fight Night: Vera vs. Sandhagen,2023-03-25T20:30Z,GMT-05:00,USA,Texas,San Antonio,Frost Bank Center
+UFC 286: Edwards vs. Usman 3,2023-03-18T16:30Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Yan vs. Dvalishvili,2023-03-11T20:00Z,GMT-08:00,USA,Nevada,Las Vegas,The Theater at Virgin Hotels Las Vegas
+UFC 285: Jones vs. Gane,2023-03-04T22:30Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Muniz vs. Allen,2023-02-25T21:30Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Andrade vs. Blanchfield,2023-02-18T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 284: Makhachev vs. Volkanovski,2023-02-11T23:00Z,GMT+08:00,Australia,Western Australia,Perth,RAC Arena
+UFC Fight Night: Lewis vs. Spivac,2023-02-05T03:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 283: Teixeira vs. Hill,2023-01-21T22:30Z,GMT-03:00,Brazil,Rio de Janeiro,Rio de Janeiro,Farmasi Arena
+UFC Fight Night: Strickland vs. Imavov,2023-01-14T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Cannonier vs. Strickland,2022-12-17T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 282: Blachowicz vs. Ankalaev,2022-12-10T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Thompson vs. Holland,2022-12-04T00:00Z,GMT-05:00,USA,Florida,Orlando,Amway Center
+UFC Fight Night: Nzechukwu vs. Cutelaba,2022-11-19T18:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 281: Adesanya vs. Pereira,2022-11-12T23:00Z,GMT-05:00,USA,New York,New York City,Madison Square Garden
+UFC Fight Night: Rodriguez vs. Lemos,2022-11-05T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Kattar vs. Allen,2022-10-29T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 280: Oliveira vs. Makhachev,2022-10-22T14:30Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC Fight Night: Grasso vs. Araujo,2022-10-15T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Dern vs. Yan,2022-10-01T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Sandhagen vs. Song,2022-09-17T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 279: Diaz vs. Ferguson,2022-09-10T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Gane vs. Tuivasa,2022-09-03T16:00Z,GMT+02:00,France,Ile-de-France,Paris,Accor Arena
+UFC 278: Usman vs. Edwards,2022-08-20T22:30Z,GMT-06:00,USA,Utah,Salt Lake City,Delta Center
+UFC Fight Night: Vera vs. Cruz,2022-08-13T20:00Z,GMT-07:00,USA,California,San Diego,Pechanga Arena
+UFC Fight Night: Santos vs. Hill,2022-08-06T23:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 277: Pena vs. Nunes 2,2022-07-30T22:00Z,GMT-05:00,USA,Texas,Dallas,American Airlines Center
+UFC Fight Night: Blaydes vs. Aspinall,2022-07-23T16:00Z,GMT+01:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Ortega vs. Rodriguez,2022-07-16T15:00Z,GMT-04:00,USA,New York,Elmont,UBS Arena
+UFC Fight Night: Dos Anjos vs. Fiziev,2022-07-09T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 276: Adesanya vs. Cannonier,2022-07-02T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Tsarukyan vs. Gamrot,2022-06-25T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Kattar vs. Emmett,2022-06-18T20:00Z,GMT-05:00,USA,Texas,Austin,Moody Center
+UFC 275: Teixeira vs. Prochazka,2022-06-11T23:00Z,GMT+08:00,Singapore,,Kallang,Singapore Indoor Stadium
+UFC Fight Night: Volkov vs. Rozenstruik,2022-06-04T17:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Holm vs. Vieira,2022-05-21T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Blachowicz vs. Rakic,2022-05-14T23:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 274: Oliveira vs. Gaethje,2022-05-07T21:30Z,GMT-07:00,USA,Arizona,Phoenix,Footprint Center
+UFC Fight Night: Font vs. Vera,2022-04-30T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Lemos vs. Andrade,2022-04-23T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Luque vs. Muhammad,2022-04-16T21:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 273: Volkanovski vs. The Korean Zombie,2022-04-09T22:30Z,GMT-04:00,USA,Florida,Jacksonville,Vystar Veterans Memorial Arena
+UFC Fight Night: Blaydes vs. Daukaus,2022-03-26T20:00Z,GMT-04:00,USA,Ohio,Columbus,Nationwide Arena
+UFC Fight Night: Volkov vs. Aspinall,2022-03-19T17:30Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Santos vs. Ankalaev,2022-03-12T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 272: Covington vs. Masvidal,2022-03-05T23:00Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Makhachev vs. Green,2022-02-26T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Walker vs. Hill,2022-02-19T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 271: Adesanya vs. Whittaker 2,2022-02-12T23:00Z,,USA,Texas,Houston,Toyota Center
+UFC Fight Night: Hermansson vs. Strickland,2022-02-05T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 270: Ngannou vs. Gane,2022-01-23T00:00Z,GMT-08:00,USA,California,Anaheim,Honda Center
+UFC Fight Night: Kattar vs. Chikadze,2022-01-15T22:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Lewis vs. Daukaus,2021-12-18T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 269: Oliveira vs. Poirier,2021-12-11T23:00Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Font vs. Aldo,2021-12-05T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Vieira vs. Tate,2021-11-20T20:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Holloway vs. Rodriguez,2021-11-13T18:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 268: Usman vs. Covington 2,2021-11-06T22:00Z,GMT-04:00,USA,New York,New York City,Madison Square Garden
+UFC 267: Blachowicz vs. Teixeira,2021-10-30T14:30Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC Fight Night: Costa vs. Vettori,2021-10-23T17:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Ladd vs. Dumont,2021-10-16T20:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Dern vs. Rodriguez,2021-10-09T18:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Santos vs. Walker,2021-10-02T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 266: Volkanovski vs. Ortega,2021-09-25T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Smith vs. Spann,2021-09-18T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Brunson vs. Till,2021-09-04T18:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Barboza vs. Chikadze,2021-08-28T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Cannonier vs. Gastelum,2021-08-21T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 265: Lewis vs. Gane,2021-08-07T22:00Z,GMT-05:00,USA,Texas,Houston,Toyota Center
+UFC Fight Night: Hall vs. Strickland,2021-07-31T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Sandhagen vs. Dillashaw,2021-07-24T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Makhachev vs. Moises,2021-07-17T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 264: Poirier vs. McGregor 3,2021-07-10T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Gane vs. Volkov,2021-06-26T17:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Jung vs. Ige,2021-06-19T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 263: Adesanya vs. Vettori 2,2021-06-12T22:00Z,GMT-07:00,USA,Arizona,Glendale,Gila River Arena
+UFC Fight Night: Rozenstruik vs. Sakai,2021-06-05T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Font vs. Garbrandt,2021-05-22T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 262: Oliveira vs. Chandler,2021-05-15T22:30Z,GMT-05:00,USA,Texas,Houston,Toyota Center
+UFC Fight Night: Rodriguez vs. Waterson,2021-05-08T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Reyes vs. Prochazka,2021-05-01T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 261: Usman vs. Masvidal 2,2021-04-24T22:00Z,GMT-04:00,USA,Florida,Jacksonville,Vystar Veterans Memorial Arena
+UFC Fight Night: Whittaker vs. Gastelum,2021-04-17T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Vettori vs. Holland,2021-04-10T15:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 260: Miocic vs. Ngannou,2021-03-27T23:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Brunson vs. Holland,2021-03-20T23:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Edwards vs. Muhammad,2021-03-13T22:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 259: Blachowicz vs. Adesanya,2021-03-06T22:15Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Rozenstruik vs. Gane,2021-02-27T23:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Blaydes vs. Lewis,2021-02-20T22:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 258: Usman vs. Burns,2021-02-14T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Overeem vs. Volkov,2021-02-06T22:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 257: Poirier vs. McGregor,2021-01-24T00:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC Fight Night: Chiesa vs. Magny,2021-01-20T14:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC Fight Night: Holloway vs. Kattar,2021-01-16T17:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
+UFC Fight Night: Thompson vs. Neal,2020-12-19T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 256: Figueiredo vs. Moreno,2020-12-13T00:30Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Hermansson vs. Vettori,2020-12-06T01:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Smith vs. Clark,2020-11-29T01:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 255: Figueiredo vs. Perez,2020-11-21T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Felder vs. Dos Anjos,2020-11-14T22:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Santos vs. Teixeira,2020-11-08T00:30Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Hall vs. Silva,2020-10-31T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 254: Khabib vs. Gaethje,2020-10-24T15:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-17T20:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC Fight Night: Moraes vs. Sandhagen,2020-10-10T21:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC Fight Night: Holm vs. Aldana,2020-10-03T23:30Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC 253: Adesanya vs. Costa,2020-09-26T23:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC Fight Night: Covington vs. Woodley,2020-09-19T21:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Waterson vs. Hill,2020-09-12T21:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Overeem vs. Sakai,2020-09-05T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Smith vs. Rakic,2020-08-29T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Munhoz vs. Edgar,2020-08-22T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 252: Miocic vs. Cormier 3,2020-08-15T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Lewis vs. Oleinik,2020-08-08T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Brunson vs. Shahbazyan,2020-08-01T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Whittaker vs. Till,2020-07-25T21:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC Fight Night: Figueiredo vs. Benavidez 2,2020-07-18T21:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC Fight Night: Kattar vs. Ige,2020-07-15T23:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC 251: Usman vs. Masvidal,2020-07-11T22:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
+UFC Fight Night: Poirier vs. Hooker,2020-06-27T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Blaydes vs. Volkov,2020-06-20T21:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Eye vs. Calvillo,2020-06-13T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC 250: Nunes vs. Spencer,2020-06-06T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Woodley vs. Burns,2020-05-30T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Overeem vs. Harris,2020-05-16T22:00Z,GMT-04:00,USA,Florida,Jacksonville,Vystar Veterans Memorial Arena
+UFC Fight Night: Smith vs. Teixeira,2020-05-13T22:00Z,GMT-04:00,USA,Florida,Jacksonville,Vystar Veterans Memorial Arena
+UFC 249: Ferguson vs. Gaethje,2020-05-09T22:30Z,GMT-04:00,USA,Florida,Jacksonville,Vystar Veterans Memorial Arena
+UFC Fight Night: Lee vs. Oliveira,2020-03-14T19:00Z,GMT-03:00,Brazil,Distrito Federal,Brasilia,Ginasio Nilson Nelson
+UFC 248: Adesanya vs. Romero,2020-03-08T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Benavidez vs. Figueiredo,2020-02-29T22:00Z,GMT-05:00,USA,Virginia,Norfolk,Chartway Arena
+UFC Fight Night: Felder vs. Hooker,2020-02-22T21:00Z,GMT+13:00,New Zealand,,Auckland,Spark Arena
+UFC Fight Night: Anderson vs. Blachowicz,2020-02-15T22:00Z,GMT-07:00,USA,New Mexico,Rio Rancho,Santa Ana Star Center
+UFC 247: Jones vs. Reyes,2020-02-08T23:30Z,GMT-06:00,USA,Texas,Houston,Toyota Center
+UFC Fight Night: Blaydes vs. Dos Santos,2020-01-25T22:00Z,GMT-05:00,USA,North Carolina,Raleigh,PNC Arena
+UFC 246: McGregor vs. Cowboy,2020-01-19T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21T07:00Z,GMT+09:00,South Korea,,Busan,Sajik Arena
+UFC 245: Usman vs. Covington,2019-12-14T23:15Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Overeem vs. Rozenstruik,2019-12-07T22:45Z,GMT-05:00,USA,DC,Washington,Capital One Arena
+UFC Fight Night: Blachowicz vs. Jacare,2019-11-16T22:00Z,GMT-03:00,Brazil,Sao Paulo,Sao Paulo,Ginasio do Ibirapuera
+UFC Fight Night: Zabit vs. Kattar,2019-11-09T16:00Z,GMT+03:00,Russia,Moscow,Moscow,CSKA Arena
+UFC 244: Masvidal vs. Diaz,2019-11-02T22:30Z,GMT-04:00,USA,New York,New York City,Madison Square Garden
+UFC Fight Night: Maia vs. Askren,2019-10-26T09:30Z,GMT+08:00,Singapore,,Kallang,Singapore Indoor Stadium
+UFC Fight Night: Reyes vs. Weidman,2019-10-18T22:00Z,GMT-04:00,USA,Massachusetts,Boston,TD Garden
+UFC Fight Night: Joanna vs. Waterson,2019-10-12T21:00Z,GMT-04:00,USA,Florida,Tampa,Amalie Arena
+UFC 243: Whittaker vs. Adesanya,2019-10-05T22:45Z,GMT+11:00,Australia,Victoria,Melbourne,Marvel Stadium
+UFC Fight Night: Hermansson vs. Cannonier,2019-09-28T15:00Z,GMT+02:00,Denmark,,Copenhagen,Royal Arena
+UFC Fight Night: Rodriguez vs. Stephens,2019-09-21T21:00Z,GMT-05:00,Mexico,Distrito Federal,Mexico City,Arena CDMX
+UFC Fight Night: Cowboy vs. Gaethje,2019-09-14T21:00Z,GMT-07:00,Canada,British Columbia,Vancouver,Rogers Arena
+UFC 242: Khabib vs. Poirier,2019-09-07T14:15Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,The Arena
+UFC Fight Night: Andrade vs. Zhang,2019-08-31T07:00Z,GMT+08:00,China,Guangdong,Shenzhen,Shenzhen Universiade Sports Centre
+UFC 241: Cormier vs. Miocic 2,2019-08-17T22:30Z,GMT-07:00,USA,California,Anaheim,Honda Center
+UFC Fight Night: Shevchenko vs. Carmouche 2,2019-08-10T21:00Z,GMT-03:00,Uruguay,,Montevideo,Antel Arena
+UFC Fight Night: Covington vs. Lawler,2019-08-03T16:00Z,GMT-04:00,USA,New Jersey,Newark,Prudential Center
+UFC 240: Holloway vs. Edgar,2019-07-27T23:00Z,GMT-06:00,Canada,Alberta,Edmonton,Rogers Place
+UFC Fight Night: Dos Anjos vs. Edwards,2019-07-20T22:00Z,GMT-05:00,USA,Texas,San Antonio,Frost Bank Center
+UFC Fight Night: De Randamie vs. Ladd,2019-07-13T21:00Z,GMT-07:00,USA,California,Sacramento,Golden 1 Center
+UFC 239: Jones vs. Santos,2019-07-06T22:15Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC 239: Jones vs. Santos,2019-07-06T22:15Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Moicano vs. The Korean Zombie,2019-06-22T20:00Z,GMT-04:00,USA,South Carolina,Greenville,Bon Secours Wellness Arena
+UFC 238: Cejudo vs. Moraes,2019-06-08T22:15Z,GMT-05:00,USA,Illinois,Chicago,United Center
+UFC Fight Night: Gustafsson vs. Smith,2019-06-01T14:00Z,GMT+02:00,Sweden,,Stockholm,Ericsson Globe
+UFC Fight Night: Dos Anjos vs. Lee,2019-05-18T21:00Z,GMT-04:00,USA,New York,Rochester,Blue Cross Arena
+UFC 237: Namajunas vs. Andrade,2019-05-11T22:30Z,GMT-03:00,Brazil,Rio de Janeiro,Rio de Janeiro,Farmasi Arena
+UFC Fight Night: Iaquinta vs. Cowboy,2019-05-04T21:00Z,GMT-04:00,Canada,Ontario,Ottawa,Canadian Tire Centre
+UFC Fight Night: Jacare vs. Hermansson,2019-04-27T21:30Z,GMT-04:00,USA,Florida,Sunrise,BB&T Center
+UFC Fight Night: Overeem vs. Oleinik,2019-04-20T14:00Z,GMT+03:00,Russia,Saint Petersburg,Saint Petersburg,Yubileyny Sports Palace
+UFC 236: Holloway vs. Poirier 2,2019-04-13T22:15Z,GMT-04:00,USA,Georgia,Atlanta,State Farm Arena
+UFC Fight Night: Barboza vs. Gaethje,2019-03-30T19:30Z,GMT-04:00,USA,Pennsylvania,Philadelphia,Wells Fargo Center
+UFC Fight Night: Thompson vs. Pettis,2019-03-23T21:00Z,GMT-05:00,USA,Tennessee,Nashville,Bridgestone Arena
+UFC Fight Night: Till vs. Masvidal,2019-03-16T17:00Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Lewis vs. Dos Santos,2019-03-09T22:00Z,GMT-06:00,USA,Kansas,Wichita,Intrust Bank Arena
+UFC 235: Jones vs. Smith,2019-03-02T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Blachowicz vs. Santos,2019-02-23T16:00Z,GMT+01:00,Czech Republic,,Prague,O2 Arena
+UFC Fight Night: Ngannou vs. Velasquez,2019-02-17T22:30Z,GMT-07:00,USA,Arizona,Phoenix,Footprint Center
+UFC 234: Adesanya vs. Silva,2019-02-10T00:00Z,GMT+11:00,Australia,Victoria,Melbourne,Rod Laver Arena
+UFC Fight Night: Assuncao vs. Moraes 2,2019-02-02T22:00Z,GMT-03:00,Brazil,Ceara,Fortaleza,Centro de Formação Olímpica do Nordeste
+UFC Fight Night: Cejudo vs. Dillashaw,2019-01-19T23:00Z,GMT-05:00,USA,New York,Brooklyn,Barclays Center
+UFC 232: Jones vs. Gustafsson 2,2018-12-29T23:15Z,GMT-08:00,USA,California,Los Angeles,The Forum
+UFC Fight Night: Lee vs. Iaquinta,2018-12-15T21:00Z,GMT-06:00,USA,Wisconsin,Milwaukee,Fiserv Forum
+UFC 231: Holloway vs. Ortega,2018-12-08T23:00Z,GMT-05:00,Canada,Ontario,Toronto,Scotiabank Arena
+UFC Fight Night: Dos Santos vs. Tuivasa,2018-12-02T00:00Z,GMT+10:30,Australia,South Australia,Adelaide,Adelaide Entertainment Centre
+The Ultimate Fighter: Heavy Hitters Finale,2018-11-30T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC Fight Night: Blaydes vs. Ngannou 2,2018-11-24T08:15Z,GMT+08:00,China,,Beijing,Cadillac Arena
+UFC Fight Night: Magny vs. Ponzinibbio,2018-11-18T00:00Z,GMT-03:00,Argentina,Buenos Aires,Buenos Aires,Parque Roca Arena
+UFC Fight Night: Korean Zombie vs. Rodriguez,2018-11-11T00:00Z,GMT-07:00,USA,Colorado,Denver,Ball Arena
+UFC 230: Cormier vs. Lewis,2018-11-03T22:15Z,GMT-04:00,USA,New York,New York City,Madison Square Garden
+UFC Fight Night: Oezdemir vs. Smith,2018-10-27T22:30Z,GMT-03:00,Canada,New Brunswick,Moncton,Avenir Centre
+UFC 229: Khabib vs. McGregor,2018-10-06T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Marreta vs. Anders,2018-09-22T22:30Z,GMT-03:00,Brazil,Sao Paulo,Sao Paulo,Ginasio do Ibirapuera
+UFC Fight Night: Hunt vs. Oleinik,2018-09-15T14:45Z,GMT+03:00,Russia,Moscow,Moscow,Olympic Stadium
+UFC 228: Woodley vs. Till,2018-09-08T22:15Z,GMT-05:00,USA,Texas,Dallas,American Airlines Center
+UFC Fight Night: Gaethje vs. Vick,2018-08-25T22:30Z,GMT-05:00,USA,Nebraska,Lincoln,Pinnacle Bank Arena
+UFC 227: Dillashaw vs. Garbrandt 2,2018-08-04T22:30Z,GMT-07:00,USA,California,Los Angeles,Staples Center
+UFC Fight Night: Alvarez vs. Poirier 2,2018-07-28T20:00Z,GMT-06:00,Canada,Alberta,Calgary,Scotiabank Saddledome
+UFC Fight Night: Shogun vs. Smith,2018-07-22T14:30Z,GMT+02:00,Germany,Hamburg,Hamburg,Barclaycard Arena
+UFC Fight Night: Dos Santos vs. Ivanov,2018-07-14T22:30Z,GMT-06:00,USA,Idaho,Boise,CenturyLink Arena
+UFC 226: Miocic vs. Cormier,2018-07-07T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+The Ultimate Fighter: Undefeated Finale,2018-07-06T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC Fight Night: Cowboy vs. Edwards,2018-06-23T08:30Z,GMT+08:00,Singapore,,Kallang,Singapore Indoor Stadium
+UFC 225: Whittaker vs. Romero 2,2018-06-09T22:15Z,GMT-05:00,USA,Illinois,Chicago,United Center
+UFC Fight Night: Rivera vs. Moraes,2018-06-01T23:00Z,GMT-04:00,USA,New York,Utica,Adirondack Bank Center
+UFC Fight Night: Thompson vs. Till,2018-05-27T14:30Z,GMT+01:00,United Kingdom,England,Liverpool,Echo Arena
+UFC Fight Night: Maia vs. Usman,2018-05-19T22:30Z,GMT-04:00,Chile,,Santiago,Movistar Arena
+UFC 224: Nunes vs. Pennington,2018-05-12T22:15Z,GMT-03:00,Brazil,Rio de Janeiro,Rio de Janeiro,Farmasi Arena
+UFC Fight Night: Barboza vs. Lee,2018-04-21T23:30Z,GMT-04:00,USA,New Jersey,Atlantic City,Boardwalk Hall
+UFC Fight Night: Poirier vs. Gaethje,2018-04-14T19:30Z,GMT-07:00,USA,Arizona,Glendale,Gila River Arena
+UFC 223: Khabib vs. Iaquinta,2018-04-08T00:00Z,GMT-04:00,USA,New York,Brooklyn,Barclays Center
+UFC Fight Night: Werdum vs. Volkov,2018-03-17T18:00Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC 222: Cyborg vs. Kunitskaya,2018-03-03T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Emmett vs. Stephens,2018-02-24T21:15Z,GMT-05:00,USA,Florida,Orlando,Amway Center
+UFC Fight Night: Cerrone vs. Medeiros,2018-02-18T23:00Z,GMT-06:00,USA,Texas,Austin,Frank Erwin Center
+UFC 221: Romero vs. Rockhold,2018-02-10T23:30Z,GMT+08:00,Australia,Western Australia,Perth,RAC Arena
+UFC Fight Night: Machida vs. Anders,2018-02-04T00:30Z,GMT-03:00,Brazil,Para,Belem,Arena Guilherme Paraense (Mangueirinho)
+UFC Fight Night: Jacare vs. Brunson 2,2018-01-27T21:00Z,GMT-05:00,USA,North Carolina,Charlotte,Spectrum Center
+UFC 220: Miocic vs. Ngannou,2018-01-21T00:00Z,GMT-05:00,USA,Massachusetts,Boston,TD Garden
+UFC Fight Night: Stephens vs. Choi,2018-01-14T23:30Z,GMT-06:00,USA,Missouri,St. Louis,Enterprise Center
+UFC 219: Cyborg vs. Holm,2017-12-31T00:30Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Lawler vs. Dos Anjos,2017-12-16T21:30Z,GMT-06:00,Canada,Manitoba,Winnipeg,Bell MTS Place
+UFC Fight Night: Swanson vs. Ortega,2017-12-09T23:30Z,GMT-08:00,USA,California,Fresno,Save Mart Center
+UFC 218: Holloway vs. Aldo 2,2017-12-02T23:15Z,GMT-05:00,USA,Michigan,Detroit,Little Caesars Arena
+The Ultimate Fighter: A New World Champion Finale,2017-12-02T00:30Z,GMT-08:00,USA,Nevada,Las Vegas,Park Theatre
+UFC Fight Night: Bisping vs. Gastelum,2017-11-25T08:45Z,GMT+08:00,China,Hebei,Shanghai,Mercedes-Benz Arena
+UFC Fight Night: Werdum vs. Tybura,2017-11-18T23:30Z,GMT+11:00,Australia,New South Wales,Sydney,Qudos Bank Arena
+UFC Fight Night: Poirier vs. Pettis,2017-11-12T00:00Z,GMT-05:00,USA,Virginia,Norfolk,Chartway Arena
+UFC 217: Bisping vs. St-Pierre,2017-11-04T23:00Z,GMT-04:00,USA,New York,New York City,Madison Square Garden
+UFC Fight Night: Brunson vs. Machida,2017-10-28T23:00Z,GMT-02:00,Brazil,Sao Paulo,Sao Paulo,Ginasio do Ibirapuera
+UFC Fight Night: Cerrone vs. Till,2017-10-21T16:00Z,GMT+02:00,Poland,,Gdansk,Ergo Arena
+UFC 216: Ferguson vs. Lee,2017-10-07T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Saint Preux vs. Okami,2017-09-23T00:00Z,GMT+09:00,Japan,Saitama,Saitama,Saitama Super Arena
+UFC Fight Night: Rockhold vs. Branch,2017-09-17T00:00Z,GMT-04:00,USA,Pennsylvania,Pittsburgh,PPG Paints Arena
+UFC 215: Nunes vs Shevchenko 2,2017-09-09T23:00Z,GMT-06:00,Canada,Alberta,Edmonton,Rogers Place
+UFC Fight Night: Volkov vs. Struve,2017-09-02T15:45Z,GMT+02:00,Netherlands,Zuid-Holland,Rotterdam,Ahoy Rotterdam
+UFC Fight Night: Pettis vs. Moreno,2017-08-05T23:00Z,GMT-05:00,Mexico,Distrito Federal,Mexico City,Arena CDMX
+UFC 214: Cormier vs. Jones 2,2017-07-29T22:30Z,GMT-07:00,USA,California,Anaheim,Honda Center
+UFC Fight Night: Weidman vs. Gastelum,2017-07-22T20:00Z,GMT-04:00,USA,New York,Uniondale,Nassau Veterans Memorial Coliseum
+UFC Fight Night: Nelson vs. Ponzinibbio,2017-07-16T16:00Z,GMT+01:00,United Kingdom,Scotland,Glasgow,The SSE Hydro
+UFC 213: Romero vs. Whittaker,2017-07-08T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+The Ultimate Fighter: Redemption Finale,2017-07-07T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Chiesa vs. Lee,2017-06-25T21:30Z,GMT-05:00,USA,Oklahoma,Oklahoma City,Chesapeake Energy Arena
+UFC Fight Night: Holm vs. Correia,2017-06-17T08:45Z,GMT+08:00,Singapore,,Kallang,Singapore Indoor Stadium
+UFC Fight Night: Lewis vs. Hunt,2017-06-10T23:30Z,GMT+12:00,New Zealand,,Auckland,Spark Arena
+UFC 212: Aldo vs. Holloway,2017-06-03T22:30Z,GMT-03:00,Brazil,Rio de Janeiro,Rio de Janeiro,Farmasi Arena
+UFC Fight Night: Gustafsson vs. Teixeira,2017-05-28T14:00Z,GMT+02:00,Sweden,,Stockholm,Ericsson Globe
+UFC 211: Miocic vs. Dos Santos,2017-05-13T22:30Z,GMT-05:00,USA,Texas,Dallas,American Airlines Center
+UFC Fight Night: Swanson vs. Lobov,2017-04-22T22:30Z,GMT-05:00,USA,Tennessee,Nashville,Bridgestone Arena
+UFC on FOX: Johnson vs. Reis,2017-04-15T20:00Z,GMT-05:00,USA,Missouri,Kansas City,T-Mobile Center
+UFC 210: Cormier vs. Johnson 2,2017-04-08T22:15Z,GMT-04:00,USA,New York,Buffalo,KeyBank Center
+UFC Fight Night: Manuwa vs. Anderson,2017-03-18T17:30Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Belfort vs. Gastelum,2017-03-12T00:00Z,GMT-03:00,Brazil,Ceara,Fortaleza,Centro de Formação Olímpica do Nordeste
+UFC 209: Woodley vs. Thompson 2,2017-03-05T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Lewis vs. Browne,2017-02-19T23:30Z,GMT-04:00,Canada,Nova Scotia,Halifax,Scotiabank Centre
+UFC 208: Holm vs. De Randamie,2017-02-12T00:30Z,GMT-05:00,USA,New York,Brooklyn,Barclays Center
+UFC Fight Night: Bermudez vs. The Korean Zombie,2017-02-05T00:00Z,GMT-06:00,USA,Texas,Houston,Toyota Center
+UFC on FOX: Shevchenko vs. Pena,2017-01-28T21:00Z,GMT-07:00,USA,Colorado,Denver,Ball Arena
+UFC Fight Night: Rodriguez vs. Penn,2017-01-15T23:15Z,GMT-07:00,USA,Arizona,Phoenix,Footprint Center
+UFC 207: Nunes vs. Rousey,2016-12-31T00:30Z,GMT-08:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC on FOX: VanZant vs. Waterson,2016-12-17T20:30Z,GMT-08:00,USA,California,Sacramento,Golden 1 Center
+UFC 206: Holloway vs. Pettis,2016-12-10T23:30Z,GMT-05:00,Canada,Ontario,Toronto,Scotiabank Arena
+UFC Fight Night: Lewis vs. Abdurakhimov,2016-12-09T22:45Z,GMT-05:00,USA,New York,Albany,Times Union Center
+The Ultimate Fighter: Tournament of Champions Finale,2016-12-04T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC Fight Night: Whittaker vs. Brunson,2016-11-26T23:30Z,GMT+11:00,Australia,Victoria,Melbourne,Rod Laver Arena
+UFC Fight Night: Bader vs. Nogueira,2016-11-19T23:00Z,GMT-02:00,Brazil,Sao Paulo,Sao Paulo,Ginasio do Ibirapuera
+UFC Fight Night: Mousasi vs. Hall 2,2016-11-19T17:30Z,GMT+00:00,United Kingdom,Northern Ireland,Belfast,The SSE Arena
+UFC 205: Alvarez vs McGregor,2016-11-13T00:00Z,GMT-05:00,USA,New York,New York City,Madison Square Garden
+UFC Fight Night: Dos Anjos vs. Ferguson,2016-11-05T22:30Z,GMT-06:00,Mexico,Distrito Federal,Mexico City,Arena CDMX
+UFC 204: Bisping vs. Henderson,2016-10-08T23:00Z,GMT+01:00,United Kingdom,England,Manchester,Manchester Arena
+UFC Fight Night: Lineker vs. Dodson,2016-10-01T23:15Z,GMT-07:00,USA,Oregon,Portland,Moda Center
+UFC Fight Night: Cyborg vs. Lansberg,2016-09-24T22:30Z,GMT-03:00,Brazil,Distrito Federal,Brasilia,Ginasio Nilson Nelson
+UFC Fight Night: Poirier vs. Johnson,2016-09-17T23:00Z,GMT-05:00,USA,Texas,Hidalgo,State Farm Arena
+UFC 203: Miocic vs. Overeem,2016-09-10T23:30Z,GMT-04:00,USA,Ohio,Cleveland,Quicken Loans Arena
+UFC Fight Night: Arlovski vs. Barnett,2016-09-03T15:45Z,GMT+02:00,Germany,Hamburg,Hamburg,Barclaycard Arena
+UFC on FOX: Maia vs. Condit,2016-08-27T21:00Z,GMT-07:00,Canada,British Columbia,Vancouver,Rogers Arena
+UFC 202: Diaz vs. McGregor 2,2016-08-20T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+UFC Fight Night: Rodriguez vs. Caceres,2016-08-06T23:00Z,GMT-06:00,USA,Utah,Salt Lake City,Delta Center
+UFC 201: Lawler vs. Woodley,2016-07-30T23:00Z,GMT-04:00,USA,Georgia,Atlanta,State Farm Arena
+UFC on FOX: Holm vs. Shevchenko,2016-07-23T20:30Z,GMT-05:00,USA,Illinois,Chicago,United Center
+UFC Fight Night: McDonald vs. Lineker,2016-07-13T22:00Z,GMT-05:00,USA,South Dakota,Sioux Falls,Denny Sanford Premier Center
+UFC 200: Tate vs Nunes,2016-07-09T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,T-Mobile Arena
+The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale,2016-07-08T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Dos Anjos vs. Alvarez,2016-07-07T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: MacDonald vs Thompson,2016-06-18T22:45Z,GMT-04:00,Canada,Ontario,Ottawa,TD Place Arena
+UFC 199: Rockhold vs. Bisping 2,2016-06-04T22:15Z,GMT-07:00,USA,California,Los Angeles,The Forum
+UFC Fight Night: Almeida vs Garbrandt,2016-05-29T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 198: Werdum vs Miocic,2016-05-14T22:30Z,GMT-03:00,Brazil,Parana,Curitiba,Arena da Baixada
+UFC Fight Night: Overeem vs Arlovski,2016-05-08T14:30Z,GMT+02:00,Netherlands,Zuid-Holland,Rotterdam,Ahoy Rotterdam
+UFC 197: Jones vs Saint Preux,2016-04-23T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC on FOX: Teixeira vs Evans,2016-04-16T20:30Z,GMT-04:00,USA,Florida,Tampa,Amalie Arena
+UFC Fight Night: Rothwell vs Dos Santos,2016-04-10T14:30Z,GMT+02:00,Croatia,,Zagreb,Zagreb Arena
+UFC Fight Night: Hunt vs Mir,2016-03-19T23:00Z,GMT+10:00,Australia,Queensland,Brisbane,Brisbane Entertainment Centre
+UFC 196: McGregor vs Diaz,2016-03-05T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Silva vs Bisping,2016-02-27T17:45Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Cowboy vs Cowboy,2016-02-21T22:30Z,GMT-05:00,USA,Pennsylvania,Pittsburgh,PPG Paints Arena
+UFC Fight Night: Hendricks vs Thompson,2016-02-07T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC on FOX: Johnson vs. Bader,2016-01-30T20:30Z,GMT-05:00,USA,New Jersey,Newark,Prudential Center
+UFC Fight Night: Dillashaw vs Cruz,2016-01-17T23:00Z,GMT-05:00,USA,Massachusetts,Boston,TD Garden
+UFC 195: Lawler vs Condit,2016-01-02T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC on FOX: Dos Anjos vs. Cowboy 2,2015-12-19T20:30Z,GMT-05:00,USA,Florida,Orlando,Amway Center
+UFC 194: Aldo vs McGregor,2015-12-12T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+The Ultimate Fighter: Team McGregor vs. Team Faber Finale,2015-12-12T01:00Z,GMT-08:00,USA,Nevada,Las Vegas,The Chelsea
+UFC Fight Night: Namajunas vs. VanZant,2015-12-10T23:45Z,GMT-08:00,USA,Nevada,Las Vegas,The Chelsea
+UFC Fight Night: Henderson vs Masvidal,2015-11-28T10:00Z,GMT+09:00,South Korea,,Seoul,Olympic Park Gymnastics Arena
+UFC Fight Night: Magny vs Gastelum,2015-11-21T23:30Z,GMT-06:00,Mexico,Nuevo Leon,Monterrey,Arena Monterrey
+UFC 193: Rousey vs Holm,2015-11-14T23:15Z,GMT+11:00,Australia,Victoria,Melbourne,Marvel Stadium
+UFC Fight Night: Belfort vs Henderson 3,2015-11-07T23:30Z,GMT-02:00,Brazil,Sao Paulo,Sao Paulo,Ginasio do Ibirapuera
+UFC Fight Night: Holohan vs Smolka,2015-10-24T17:15Z,GMT+01:00,Ireland,Leinster,Dublin,3Arena
+UFC 192: Cormier vs Gustafsson,2015-10-03T22:15Z,GMT-05:00,USA,Texas,Houston,Toyota Center
+UFC Fight Night: Barnett vs Nelson,2015-09-27T00:00Z,GMT+09:00,Japan,,Saitama,Saitama Super Arena
+UFC 191: Johnson vs Dodson 2,2015-09-05T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Holloway vs Oliveira,2015-08-23T22:00Z,GMT-06:00,Canada,Saskatchewan,Saskatoon,SaskTel Centre
+UFC Fight Night: Teixeira vs Saint Preux,2015-08-08T22:30Z,GMT-05:00,USA,Tennessee,Nashville,Bridgestone Arena
+UFC 190: Rousey vs Correia,2015-08-01T23:00Z,GMT-03:00,Brazil,Rio de Janeiro,Rio de Janeiro,Farmasi Arena
+UFC on FOX: Dillashaw vs. Barao II,2015-07-25T20:15Z,GMT-05:00,USA,Illinois,Chicago,United Center
+UFC Fight Night: Bisping vs Leites,2015-07-18T14:00Z,GMT+01:00,United Kingdom,Scotland,Glasgow,The SSE Hydro
+UFC Fight Night: Mir vs Duffee,2015-07-15T23:00Z,GMT-07:00,USA,California,San Diego,Pechanga Arena
+The Ultimate Fighter: American Top Team vs. Blackzilians Finale,2015-07-12T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 189: Mendes vs McGregor,2015-07-11T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Machida vs Romero,2015-06-28T00:00Z,GMT-04:00,USA,Florida,Hollywood,Seminole Hard Rock Hotel and Casino
+UFC Fight Night: Jedrzejczyk vs Penne,2015-06-20T16:00Z,GMT+02:00,Germany,Berlin,Berlin,O2 World
+UFC 188: Velasquez vs Werdum,2015-06-13T23:00Z,GMT-05:00,Mexico,Distrito Federal,Mexico City,Arena CDMX
+UFC Fight Night: Boetsch vs Henderson,2015-06-06T23:00Z,GMT-05:00,USA,Louisiana,New Orleans,Smoothie King Center
+UFC Fight Night: Condit vs Alves,2015-05-30T23:00Z,GMT-03:00,Brazil,Goias,Goiania,Goiania Arena
+UFC 187: Johnson vs Cormier,2015-05-23T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Edgar vs Faber,2015-05-16T11:00Z,GMT+08:00,Philippines,,Manila,Mall of Asia Arena
+UFC Fight Night: Miocic vs Hunt,2015-05-09T23:45Z,GMT+09:30,Australia,South Australia,Adelaide,Adelaide Entertainment Centre
+UFC 186: Johnson vs Horiguchi,2015-04-25T22:30Z,GMT-04:00,Canada,Quebec,Montreal,Bell Centre
+UFC on FOX: Machida vs Rockhold,2015-04-18T20:30Z,GMT-04:00,USA,New Jersey,Newark,Prudential Center
+UFC Fight Night: Gonzaga vs Cro Cop 2,2015-04-11T15:45Z,GMT+02:00,Poland,,Krakow,Tauron Arena
+UFC Fight Night: Mendes vs Lamas,2015-04-04T15:00Z,GMT-04:00,USA,Virginia,Fairfax,EagleBank Arena
+UFC Fight Night: Maia vs LaFlare,2015-03-21T23:00Z,GMT-03:00,Brazil,,Rio de Janeiro,Ginasio do Maracanazinho
+UFC 185: Pettis vs Dos Anjos,2015-03-14T22:30Z,GMT-05:00,USA,Texas,Dallas,American Airlines Center
+UFC 184: Rousey vs Zingano,2015-03-01T00:00Z,GMT-08:00,USA,California,Los Angeles,Staples Center
+UFC Fight Night: Bigfoot vs Mir,2015-02-22T22:00Z,GMT-03:00,Brazil,Rio Grande do Sul,Porto Alegre,Ginasio Gigantinho
+UFC Fight Night: Henderson vs Thatch,2015-02-15T01:00Z,GMT-07:00,USA,Colorado,Broomfield,1stBank Center
+UFC 183: Silva vs Diaz,2015-01-31T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC on FOX: Gustafsson vs Johnson,2015-01-24T21:00Z,GMT+01:00,Sweden,,Stockholm,Tele2 Arena
+UFC Fight Night: McGregor vs Siver,2015-01-18T22:00Z,GMT-05:00,USA,Massachusetts,Boston,TD Garden
+UFC 182: Jones vs Cormier,2015-01-04T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Machida vs Dollaway,2014-12-21T00:00Z,GMT-02:00,Brazil,Sao Paulo,Barueri,Ginasio Jose Correa
+UFC on FOX: Dos Santos vs Miocic,2014-12-13T20:30Z,GMT-07:00,USA,Arizona,Phoenix,Footprint Center
+The Ultimate Fighter: A Champion Will Be Crowned Finale,2014-12-12T23:00Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 181: Hendricks vs Lawler II,2014-12-07T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night: Edgar vs Swanson,2014-11-23T00:00Z,GMT-06:00,USA,Texas,Austin,Frank Erwin Center
+UFC 180: Werdum vs Hunt,2014-11-16T00:00Z,GMT-06:00,Mexico,Distrito Federal,Mexico City,Arena CDMX
+UFC Fight Night 56: Shogun vs Saint Preux,2014-11-09T01:00Z,GMT-02:00,Brazil,Minas Gerais,Uberlandia,Ginasio Municipal Tancredo Neves
+UFC Fight Night: Rockhold vs Bisping,2014-11-08T00:00Z,GMT+11:00,Australia,New South Wales,Sydney,Qudos Bank Arena
+UFC 179: Aldo vs Mendes 2,2014-10-25T23:00Z,GMT-02:00,Brazil,,Rio de Janeiro,Ginasio do Maracanazinho
+UFC Fight Night: MacDonald vs Saffiedine,2014-10-04T23:00Z,GMT-03:00,Canada,Nova Scotia,Halifax,Scotiabank Centre
+UFC Fight Night: Nelson vs Story,2014-10-04T16:10Z,GMT+02:00,Sweden,,Stockholm,Ericsson Globe
+UFC 178: Johnson vs Cariaso,2014-09-27T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Hunt vs Nelson,2014-09-20T04:30Z,GMT+09:00,Japan,,Saitama,Saitama Super Arena
+UFC Fight Night: Bigfoot vs Arlovski,2014-09-13T21:45Z,GMT-03:00,Brazil,Distrito Federal,Brasilia,Ginasio Nilson Nelson
+UFC Fight Night: Jacare vs Mousasi,2014-09-05T23:00Z,GMT-04:00,USA,Connecticut,Ledyard,Foxwoods Resort Casino
+UFC 177: Dillashaw vs Soto,2014-08-30T23:30Z,GMT-07:00,USA,California,Sacramento,Sleep Train Arena
+UFC Fight Night: Henderson vs Dos Anjos,2014-08-23T23:30Z,GMT-05:00,USA,Oklahoma,Tulsa,BOK Center
+UFC Fight Night: Bisping vs Le,2014-08-23T10:30Z,GMT+08:00,China,,Macau,Cotai Arena
+UFC Fight Night: Bader vs Saint Preux,2014-08-17T00:00Z,GMT-04:00,USA,Maine,Bangor,Cross Insurance Center
+UFC on FOX: Lawler vs Brown,2014-07-26T20:15Z,GMT-07:00,USA,California,San Jose,San Jose Civic Auditorium
+UFC Fight Night: McGregor vs Brandao,2014-07-19T16:30Z,GMT+01:00,Ireland,Leinster,Dublin,3Arena
+UFC Fight Night: Cowboy vs Miller,2014-07-16T22:30Z,GMT-04:00,USA,New Jersey,Atlantic City,Revel Resort
+The Ultimate Fighter: Team Edgar vs. Team Penn Finale,2014-07-06T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 175: Weidman vs Machida,2014-07-05T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night: Swanson vs Stephens,2014-06-28T23:30Z,GMT-05:00,USA,Texas,San Antonio,Frost Bank Center
+UFC Fight Night: Te Huna vs Marquardt,2014-06-28T06:30Z,GMT+12:00,New Zealand,,Auckland,Spark Arena
+UFC 174: Johnson vs Bagautinov,2014-06-14T23:00Z,GMT-07:00,Canada,British Columbia,Vancouver,Rogers Arena
+UFC Fight Night: Henderson vs Khabilov,2014-06-07T23:30Z,GMT-06:00,USA,New Mexico,Albuquerque,Tingley Coliseum
+UFC Fight Night: Miocic vs Maldonado,2014-05-31T22:30Z,GMT-03:00,Brazil,,Sao Paulo,Ginasio do Ibirapuera
+UFC Fight Night: Munoz vs Mousasi,2014-05-31T16:30Z,GMT+02:00,Germany,,Berlin,O2 World
+UFC 173: Barao vs Dillashaw,2014-05-24T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Brown vs Silva,2014-05-10T22:30Z,GMT-04:00,USA,Ohio,Cincinnati,U.S. Bank Arena
+UFC 172: Jones vs Teixeira,2014-04-26T23:30Z,GMT-04:00,USA,Maryland,Baltimore,Royal Farms Arena
+UFC on FOX: Werdum vs Browne,2014-04-19T19:30Z,GMT-04:00,USA,Florida,Orlando,Amway Center
+UFC Fight Night: Bisping vs Kennedy,2014-04-16T19:15Z,GMT-04:00,Canada,Quebec,Quebec City,Colisee Pepsi
+UFC Fight Night: Minotauro vs Nelson,2014-04-11T16:15Z,GMT+04:00,United Arab Emirates,,Abu Dhabi,du Arena
+UFC Fight Night: Shogun vs Henderson 2,2014-03-23T20:00Z,GMT-03:00,Brazil,Rio Grande do Norte,Natal,Ginasio Nelio Dias
+UFC 171: Hendricks vs Lawler,2014-03-15T22:00Z,GMT-05:00,USA,Texas,Dallas,American Airlines Center
+UFC Fight Night: Gustafsson vs Manuwa,2014-03-08T17:30Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Kim vs Hathaway,2014-03-01T11:20Z,GMT+08:00,China,,Macau,Cotai Arena
+UFC 170: Rousey vs McMann,2014-02-23T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night: Machida vs Mousasi,2014-02-16T00:30Z,GMT-02:00,Brazil,Santa Catarina,Jaragua do Sul,Arena Jaragua
+UFC 169: Barao vs Faber 2,2014-02-01T23:30Z,GMT-05:00,USA,New Jersey,Newark,Prudential Center
+UFC on FOX: Henderson vs Thomson,2014-01-25T21:30Z,GMT-06:00,USA,Illinois,Chicago,United Center
+UFC Fight Night: Rockhold vs Philippou,2014-01-15T21:00Z,GMT-05:00,USA,Georgia,Duluth,Arena at Gwinett Center
+UFC Fight Night: Saffiedine vs Lim,2014-01-04T11:30Z,GMT+08:00,Singapore,,Singapore,Marina Bay Sands
+UFC 168: Weidman vs Silva 2,2013-12-29T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC on FOX: Johnson vs. Benavidez 2,2013-12-14T21:00Z,GMT-08:00,USA,California,Sacramento,Sleep Train Arena
+UFC Fight Night: Hunt vs Bigfoot,2013-12-06T23:30Z,GMT+10:00,Australia,Queensland,Brisbane,Queensland Entertainment Centre
+The Ultimate Fighter: Team Rousey vs. Team Tate Finale,2013-12-01T00:30Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 167: St-Pierre vs Hendricks,2013-11-16T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Belfort vs Henderson 2,2013-11-09T22:30Z,GMT-02:00,Brazil,Goias,Goiania,Goiania Arena
+UFC Fight Night: Fight for the Troops 3,2013-11-06T20:10Z,GMT-06:00,USA,Kentucky,Fort Campbell,Fort Campbell
+UFC Fight Night: Machida vs Munoz,2013-10-26T16:00Z,GMT+01:00,United Kingdom,England,Manchester,Manchester Arena
+UFC 166: Velasquez vs Dos Santos 3,2013-10-19T22:15Z,GMT-05:00,USA,Texas,Houston,Toyota Center
+UFC Fight Night: Maia vs Shields,2013-10-09T21:00Z,GMT-03:00,Brazil,Sao Paulo,Barueri,Ginasio Jose Correa
+UFC 165: Jones vs Gustafsson,2013-09-21T22:15Z,GMT-04:00,Canada,Ontario,Toronto,Scotiabank Arena
+UFC Fight Night: Teixeira vs Bader,2013-09-04T20:30Z,GMT-03:00,Brazil,Minas Gerais,Belo Horizonte,Mineirinho Arena
+UFC 164: Henderson vs Pettis 2,2013-08-31T22:30Z,GMT-05:00,USA,Wisconsin,Milwaukee,Bradley Center
+UFC Fight Night: Condit vs Kampmann 2,2013-08-28T21:00Z,GMT-04:00,USA,Indiana,Indianapolis,Bankers Life Fieldhouse
+UFC Fight Night: Shogun vs Sonnen,2013-08-17T20:30Z,GMT-04:00,USA,Massachusetts,Boston,TD Garden
+UFC 163: Aldo vs Jung,2013-08-03T22:30Z,GMT-03:00,Brazil,,Rio de Janeiro,Farmasi Arena
+UFC on FOX: Johnson vs Moraga,2013-07-27T19:55Z,GMT-07:00,USA,Washington,Seattle,Climate Pledge Arena
+UFC 162: Silva vs Weidman,2013-07-06T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 161: Evans vs Henderson,2013-06-15T23:00Z,GMT-05:00,Canada,Manitoba,Winnipeg,Bell MTS Place
+UFC on FUEL TV: Nogueira vs. Werdum,2013-06-08T20:45Z,GMT-03:00,Brazil,Ceara,Fortaleza,Paulo Sarasate Arena
+UFC 160: Velasquez vs Silva 2,2013-05-25T22:30Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC on FX: Belfort vs. Rockhold,2013-05-18T20:30Z,GMT-03:00,Brazil,Santa Catarina,Jaragua do Sul,Arena Jaragua
+UFC 159: Jones vs Sonnen,2013-04-27T22:30Z,GMT-04:00,USA,New Jersey,Newark,Prudential Center
+UFC on FOX: Henderson vs Melendez,2013-04-20T20:00Z,GMT-07:00,USA,California,San Jose,SAP Center at San Jose
+The Ultimate Fighter: Team Jones vs. Team Sonnen Finale,2013-04-13T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC on FUEL TV: Mousasi vs Latifi,2013-04-06T14:50Z,GMT+02:00,Sweden,,Stockholm,Ericsson Globe
+UFC 158: St-Pierre vs Diaz,2013-03-16T22:30Z,GMT-04:00,Canada,Quebec,Montreal,Bell Centre
+UFC on FUEL TV: Silva vs. Stann,2013-03-03T00:00Z,GMT+09:00,Japan,,Saitama,Saitama Super Arena
+UFC 157: Rousey vs Carmouche,2013-02-23T23:30Z,GMT-08:00,USA,California,Anaheim,Honda Center
+UFC on FUEL TV: Barao vs McDonald,2013-02-16T17:00Z,GMT+00:00,United Kingdom,England,London,"The SSE Arena, Wembley"
+UFC 156: Aldo vs Edgar,2013-02-03T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC on FOX: Johnson vs Dodson,2013-01-26T21:00Z,GMT-06:00,USA,Illinois,Chicago,United Center
+UFC on FX: Belfort vs Bisping,2013-01-19T22:00Z,GMT-02:00,Brazil,,Sao Paulo,Ginasio do Ibirapuera
+UFC 155: Dos Santos vs Velasquez II,2012-12-29T23:30Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC on FX: Sotiropoulos vs Pearson,2012-12-14T22:00Z,GMT+10:00,Australia,Queensland,Gold Coast,Gold Coast Convention and Exhibition Centre
+The Ultimate Fighter: Team Carwin vs. Team Nelson Finale,2012-12-15T22:30Z,GMT-08:00,USA,Nevada,Las Vegas,Hard Rock Hotel and Casino
+UFC on FOX: Henderson vs Diaz,2012-12-08T21:20Z,GMT-08:00,USA,Washington,Seattle,Climate Pledge Arena
+UFC 154: St-Pierre vs Condit,2012-11-17T23:30Z,GMT-05:00,Canada,Quebec,Montreal,Bell Centre
+UFC 154: St-Pierre vs Condit,2012-11-17T23:30Z,GMT-05:00,Canada,Quebec,Montreal,Bell Centre
+UFC Macao: Franklin vs Le,2012-11-10T12:00Z,GMT+08:00,China,,Macau,Cotai Arena
+UFC 153: Silva vs Bonnar,2012-10-13T23:00Z,GMT-03:00,Brazil,,Rio de Janeiro,Farmasi Arena
+UFC on FX: Browne vs Bigfoot,2012-10-05T21:00Z,GMT-05:00,USA,Minnesota,Minneapolis,Target Center
+UFC on FUEL TV: Struve vs Miocic,2012-09-29T17:30Z,GMT+01:00,United Kingdom,England,Nottingham,Motorpoint Arena Nottingham
+UFC 152: Jones vs Belfort,2012-09-22T22:45Z,GMT-04:00,Canada,Ontario,Toronto,Scotiabank Arena
+UFC 150: Henderson vs Edgar II,2012-08-11T23:00Z,GMT-06:00,USA,Colorado,Denver,Ball Arena
+UFC on FOX: Shogun vs Vera,2012-08-04T21:00Z,GMT-07:00,USA,California,Los Angeles,Staples Center
+UFC 149: Faber vs Barao,2012-07-21T23:00Z,GMT-06:00,Canada,Alberta,Calgary,Scotiabank Saddledome
+UFC on FUEL TV: Munoz vs Weidman,2012-07-11T21:00Z,GMT-07:00,USA,California,San Jose,SAP Center at San Jose
+UFC 148: Silva vs Sonnen 2,2012-07-07T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 147: Silva vs Franklin 2,2012-06-23T22:00Z,GMT-03:00,Brazil,Minas Gerais,Belo Horizonte,Mineirinho Arena
+UFC on FX: Maynard vs Guida,2012-06-22T21:00Z,GMT-04:00,USA,New Jersey,Atlantic City,Revel Resort
+UFC on FX: Johnson vs McCall,2012-06-08T21:00Z,GMT-04:00,USA,Florida,Sunrise,BB&T Center
+The Ultimate Fighter: Live Finale,2012-06-01T22:25Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 146: Dos Santos vs Mir,2012-05-26T22:45Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+Strikeforce - Barnett vs Cormier,2012-05-19T22:00Z,GMT-07:00,USA,California,San Jose,SAP Center at San Jose
+UFC on FUEL TV: Korean Zombie vs Poirier,2012-05-15T21:00Z,GMT-04:00,USA,Virginia,Fairfax,EagleBank Arena
+UFC on FOX: Diaz vs Miller,2012-05-05T20:00Z,GMT-04:00,USA,New Jersey,East Rutherford,Meadowlands Arena
+UFC 145: Jones vs Evans,2012-04-21T23:00Z,GMT-04:00,USA,Georgia,Atlanta,State Farm Arena
+UFC on FUEL TV: Gustafsson vs Silva,2012-04-14T16:00Z,GMT+02:00,Sweden,,Stockholm,Ericsson Globe
+UFC on FX: Alves vs Kampmann,2012-03-02T23:00Z,GMT+11:00,Australia,New South Wales,Sydney,Qudos Bank Arena
+UFC 144: Edgar vs Henderson,2012-02-26T00:00Z,GMT+09:00,Japan,,Saitama,Saitama Super Arena
+UFC on FUEL TV: Sanchez vs Ellenberger,2012-02-15T23:00Z,GMT-06:00,USA,Nebraska,Omaha,Omaha Civic Auditorium
+UFC 143: Diaz vs Condit,2012-02-05T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC on FOX: Evans vs Davis,2012-01-28T22:00Z,GMT-06:00,USA,Illinois,Chicago,United Center
+UFC on FX: Guillard vs Miller,2012-01-21T00:00Z,GMT-06:00,USA,Tennessee,Nashville,Bridgestone Arena
+UFC 142: Aldo vs Mendes,2012-01-15T00:30Z,GMT-02:00,Brazil,,Rio de Janeiro,Farmasi Arena
+UFC 141: Lesnar vs Overeem,2011-12-31T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 140: Jones vs Machida,2011-12-10T22:30Z,GMT-05:00,Canada,Ontario,Toronto,Scotiabank Arena
+The Ultimate Fighter: Team Bisping vs Team Miller Finale,2011-12-03T23:00Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 139: Shogun vs Henderson,2011-11-19T23:00Z,GMT-08:00,USA,California,San Jose,SAP Center at San Jose
+UFC on FOX: Velasquez vs Dos Santos,2011-11-12T21:55Z,GMT-08:00,USA,California,Anaheim,Honda Center
+UFC 138: Leben vs Munoz,2011-11-05T15:00Z,GMT+00:00,United Kingdom,England,Birmingham,Genting Arena
+UFC 137: Penn vs Diaz,2011-10-29T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 136: Edgar vs Maynard 3,2011-10-08T22:00Z,GMT-05:00,USA,Texas,Houston,Toyota Center
+UFC Live: Cruz vs Johnson,2011-10-01T22:00Z,GMT-04:00,USA,DC,Washington,Capital One Arena
+UFC 135: Jones vs Rampage,2011-09-24T22:00Z,GMT-06:00,USA,Colorado,Denver,Ball Arena
+UFC Fight Night: Shields vs Ellenberger,2011-09-17T21:30Z,GMT-05:00,USA,Louisiana,New Orleans,Ernest N. Morial Convention Center
+UFC 134: Silva vs Okami,2011-08-27T22:00Z,GMT-03:00,Brazil,,Rio de Janeiro,Farmasi Arena
+UFC Live: Hardy vs Lytle,2011-08-14T21:00Z,GMT-05:00,USA,Wisconsin,Milwaukee,Bradley Center
+UFC 133: Evans vs Ortiz 2,2011-08-06T22:00Z,GMT-04:00,USA,Pennsylvania,Philadelphia,Wells Fargo Center
+UFC 132: Cruz vs Faber,2011-07-02T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Live: Kongo vs Barry,2011-06-26T22:00Z,GMT-04:00,USA,Pennsylvania,Pittsburgh,PPG Paints Arena
+UFC 131: Dos Santos vs Carwin,2011-06-11T22:00Z,GMT-07:00,Canada,British Columbia,Vancouver,Rogers Arena
+The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale,2011-06-04T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 130: Rampage vs Hamill,2011-05-28T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 129: St-Pierre vs Shields,2011-04-30T22:00Z,GMT-04:00,Canada,Ontario,Toronto,Rogers Centre
+UFC Fight Night: Nogueira vs Davis,2011-03-26T22:00Z,GMT-07:00,USA,Washington,Seattle,Climate Pledge Arena
+UFC 128: Shogun vs Jones,2011-03-19T23:00Z,GMT-04:00,USA,New Jersey,Newark,Prudential Center
+UFC Live: Sanchez vs Kampmann,2011-03-03T23:00Z,GMT-05:00,USA,Kentucky,Louisville,KFC Yum! Center
+UFC 127: Penn vs Fitch,2011-02-27T00:00Z,GMT+11:00,Australia,New South Wales,Sydney,Qudos Bank Arena
+UFC 126: Silva vs Belfort,2011-02-06T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night: Fight for the Troops 2,2011-01-22T23:00Z,GMT-06:00,USA,Texas,Killeen,Fort Hood
+UFC 125: Resolution,2011-01-02T00:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 124: St-Pierre vs Koscheck 2,2010-12-12T00:00Z,GMT-05:00,Canada,Quebec,Montreal,Bell Centre
+The Ultimate Fighter: Team GSP vs Team Koscheck Finale,2010-12-04T23:00Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 123: Rampage vs Machida,2010-11-21T00:00Z,GMT-05:00,USA,Michigan,Auburn Hills,Palace of Auburn Hills
+UFC 122: Marquardt vs Okami,2010-11-13T17:00Z,GMT+01:00,Germany,North Rhine-Westphalia,Oberhausen,Konig Pilsener Arena
+UFC 121: Lesnar vs Velasquez,2010-10-23T23:00Z,GMT-07:00,USA,California,Anaheim,Honda Center
+UFC 120: Bisping vs Akiyama,2010-10-16T16:00Z,GMT+01:00,United Kingdom,England,London,The O2 Arena
+UFC 119: Mir vs Cro Cop,2010-09-25T23:00Z,GMT-04:00,USA,Indiana,Indianapolis,Bankers Life Fieldhouse
+UFC Fight Night: Marquardt vs Palhares,2010-09-15T21:00Z,GMT-05:00,USA,Texas,Austin,Frank Erwin Center
+UFC 118: Edgar vs Penn 2,2010-08-28T23:00Z,GMT-04:00,USA,Massachusetts,Boston,TD Garden
+UFC 117: Silva vs Sonnen,2010-08-07T23:00Z,GMT-07:00,USA,California,Oakland,Oracle Arena
+UFC Live: Jones vs Matyushenko,2010-08-01T22:00Z,GMT-07:00,USA,California,San Diego,Pechanga Arena
+UFC 116: Lesnar vs Carwin,2010-07-03T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+The Ultimate Fighter: Team Liddell vs Team Ortiz Finale,2010-06-19T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 115: Liddell vs Franklin,2010-06-12T23:00Z,GMT-07:00,Canada,British Columbia,Vancouver,Rogers Arena
+UFC 114: Rampage vs Evans,2010-05-29T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 113: Machida vs Shogun 2,2010-05-08T23:00Z,GMT-04:00,Canada,Quebec,Montreal,Bell Centre
+UFC 112: Invincible,2010-04-10T17:00Z,GMT+04:00,United Arab Emirates,,Abu Dhabi,Ferrari World
+UFC Fight Night: Florian vs Gomi,2010-03-31T22:00Z,GMT-04:00,USA,North Carolina,Charlotte,Bojangles Coliseum
+UFC 111: St-Pierre vs Hardy,2010-03-27T23:00Z,GMT-04:00,USA,New Jersey,Newark,Prudential Center
+UFC Live: Vera vs Jones,2010-03-21T16:00Z,GMT-06:00,USA,Colorado,Broomfield,1stBank Center
+UFC 110: Nogueira vs Velasquez,2010-02-21T00:00Z,GMT+11:00,Australia,New South Wales,Sydney,Qudos Bank Arena
+UFC 109: Relentless,2010-02-07T03:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night: Maynard vs Diaz,2010-01-12T03:00Z,GMT-05:00,USA,Virginia,Fairfax,EagleBank Arena
+UFC 108: Evans vs Silva,2010-01-02T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 107: Penn vs Sanchez,2009-12-12T05:00Z,GMT-06:00,USA,Tennessee,Memphis,FedExForum
+The Ultimate Fighter: Heavyweights Finale,2009-12-05T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 106: Ortiz vs Griffin 2,2009-11-21T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 105: Couture vs Vera,2009-11-14T05:00Z,GMT+00:00,United Kingdom,England,Manchester,Manchester Arena
+UFC 104: Machida vs Shogun,2009-10-24T04:00Z,GMT-07:00,USA,California,Los Angeles,Staples Center
+UFC 103: Franklin vs Belfort,2009-09-19T04:00Z,GMT-05:00,USA,Texas,Dallas,American Airlines Center
+UFC Fight Night: Diaz vs Guillard,2009-09-16T04:00Z,GMT-05:00,USA,Oklahoma,Oklahoma City,Cox Convention Center
+UFC 102: Couture vs Nogueira,2009-08-29T04:00Z,GMT-07:00,USA,Oregon,Portland,Moda Center
+UFC 101: Declaration,2009-08-08T04:00Z,GMT-04:00,USA,Pennsylvania,Philadelphia,Wells Fargo Center
+UFC 100,2009-07-11T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+The Ultimate Fighter: United States vs. United Kingdom Finale,2009-06-20T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 99: The Comeback,2009-06-13T04:00Z,GMT+02:00,Germany,North Rhine-Westphalia,Cologne,Lanxess Arena
+UFC 98: Evans vs Machida,2009-05-23T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 97: Redemption,2009-04-18T04:00Z,GMT-04:00,Canada,Quebec,Montreal,Bell Centre
+UFC Fight Night: Condit vs Kampmann,2009-04-01T04:00Z,GMT-05:00,USA,Tennessee,Nashville,Bridgestone Arena
+UFC 96: Jackson vs Jardine,2009-03-07T05:00Z,GMT-05:00,USA,Ohio,Columbus,Nationwide Arena
+UFC 95: Sanchez vs Stevenson,2009-02-21T05:00Z,GMT+00:00,United Kingdom,England,London,The O2 Arena
+UFC Fight Night: Lauzon vs Stephens,2009-02-07T05:00Z,GMT-05:00,USA,Florida,Tampa,USF Sun Dome
+UFC 94: St-Pierre vs Penn 2,2009-01-31T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 93: Franklin vs Henderson,2009-01-17T05:00Z,GMT+00:00,Ireland,Leinster,Dublin,3Arena
+UFC 92: The Ultimate 2008,2008-12-27T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+The Ultimate Fighter: Team Nogueira vs. Team Mir Finale,2008-12-13T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC Fight Night - Fight for the Troops,2008-12-10T05:00Z,GMT-05:00,USA,North Carolina,Fayetteville,Crown Coliseum
+UFC 91: Couture vs Lesnar,2008-11-15T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 90: Silva vs Cote,2008-10-25T04:00Z,GMT-05:00,USA,Illinois,Rosemont,Allstate Arena
+UFC 89: Bisping vs Leben,2008-10-18T04:00Z,GMT+01:00,United Kingdom,England,Birmingham,Barclaycard Arena Birmingham
+UFC Fight Night: Diaz vs Neer,2008-09-17T04:00Z,GMT-05:00,USA,Nebraska,Omaha,Omaha Civic Auditorium
+UFC 88: Breakthrough,2008-09-06T04:00Z,GMT-04:00,USA,Georgia,Atlanta,State Farm Arena
+UFC 87: Seek And Destroy,2008-08-09T04:00Z,GMT-05:00,USA,Minnesota,Minneapolis,Target Center
+UFC: Silva vs Irvin,2008-07-19T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 86: Jackson vs Griffin,2008-07-05T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+The Ultimate Fighter: Team Rampage vs Team Forrest Finale,2008-06-21T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 85: Bedlam,2008-06-07T04:00Z,GMT+01:00,United Kingdom,England,London,The O2 Arena
+UFC 84: Ill Will,2008-05-24T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 83: Serra vs St-Pierre 2,2008-04-19T04:00Z,GMT-04:00,Canada,Quebec,Montreal,Bell Centre
+UFC Fight Night: Florian vs Lauzon,2008-04-02T04:00Z,GMT-06:00,USA,Colorado,Broomfield,1stBank Center
+UFC 82: Pride of a Champion,2008-03-01T05:00Z,GMT-05:00,USA,Ohio,Columbus,Nationwide Arena
+UFC 81: Breaking Point,2008-02-02T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night: Swick vs Burkman,2008-01-23T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 80: Rapid Fire,2008-01-19T05:00Z,GMT+00:00,United Kingdom,England,Newcastle,Metro Radio Arena
+UFC 79: Nemesis,2007-12-29T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+The Ultimate Fighter: Team Hughes vs. Team Serra Finale,2007-12-08T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 78: Validation,2007-11-17T05:00Z,GMT-05:00,USA,New Jersey,Newark,Prudential Center
+UFC 77: Hostile Territory,2007-10-20T04:00Z,GMT-04:00,USA,Ohio,Cincinnati,U.S. Bank Arena
+UFC 76: Knockout,2007-09-22T04:00Z,GMT-07:00,USA,California,Anaheim,Honda Center
+UFC Fight Night: Thomas vs Florian,2007-09-19T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 75: Champion vs Champion,2007-09-08T04:00Z,GMT+01:00,United Kingdom,England,London,The O2 Arena
+UFC 74: Respect,2007-08-25T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 73: Stacked,2007-07-07T04:00Z,GMT-07:00,USA,California,Sacramento,Sleep Train Arena
+The Ultimate Fighter: Team Pulver vs. Team Penn Finale,2007-06-23T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 72: Victory,2007-06-16T04:00Z,GMT+01:00,United Kingdom,Northern Ireland,Belfast,The Odyssey
+UFC Fight Night: Stout vs Fisher,2007-06-12T04:00Z,GMT-04:00,USA,Florida,Hollywood,Seminole Hard Rock Hotel and Casino
+UFC 71: Liddell vs Jackson,2007-05-26T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 70: Nations Collide,2007-04-21T04:00Z,GMT+01:00,United Kingdom,England,Manchester,Manchester Arena
+UFC 69: Shootout,2007-04-07T04:00Z,GMT-05:00,USA,Texas,Houston,Toyota Center
+UFC Fight Night: Stevenson vs Guillard,2007-04-05T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Pearl Concert Theater
+UFC 68: The Uprising,2007-03-03T05:00Z,GMT-05:00,USA,Ohio,Columbus,Nationwide Arena
+UFC 67: All or Nothing,2007-02-03T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night: Evans vs Salmon,2007-01-25T05:00Z,GMT-05:00,USA,Florida,Hollywood,Seminole Hard Rock Hotel and Casino
+UFC 66: Liddell vs Ortiz 2,2006-12-30T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night: Sanchez vs Riggs,2006-12-13T05:00Z,GMT-08:00,USA,California,San Diego,MCAS Miramar
+UFC 65: Bad Intentions,2006-11-18T05:00Z,GMT-08:00,USA,California,Sacramento,Sleep Train Arena
+The Ultimate Fighter: The Comeback Finale,2006-11-11T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Hard Rock Hotel and Casino
+UFC 64: Unstoppable,2006-10-14T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+Ortiz vs Shamrock 3: The Final Chapter,2006-10-10T04:00Z,GMT-04:00,USA,Florida,Hollywood,Seminole Hard Rock Hotel and Casino
+UFC 63: Hughes vs Penn,2006-09-23T04:00Z,GMT-07:00,USA,California,Anaheim,Honda Center
+UFC 62: Liddell vs Sobral,2006-08-26T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night 6,2006-08-17T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Red Rock Resort Spa and Casino
+UFC 61: Bitter Rivals,2006-07-08T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night 5,2006-06-28T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Hard Rock Hotel and Casino
+The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale,2006-06-24T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Hard Rock Hotel and Casino
+UFC 60: Hughes vs Gracie,2006-05-27T04:00Z,GMT-07:00,USA,California,Los Angeles,Staples Center
+UFC 59: Reality Check,2006-04-15T04:00Z,GMT-07:00,USA,California,Anaheim,Honda Center
+UFC Fight Night 4,2006-04-06T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Hard Rock Hotel and Casino
+UFC 58: USA vs Canada,2006-03-04T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 57: Liddell vs Couture 3,2006-02-04T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC Fight Night 3,2006-01-16T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Hard Rock Hotel and Casino
+UFC 56: Full Force,2005-11-19T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+The Ultimate Fighter: Team Hughes vs. Team Franklin Finale,2005-11-05T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Hard Rock Hotel and Casino
+UFC 55: Fury,2005-10-07T04:00Z,GMT-04:00,USA,Connecticut,Uncasville,Mohegan Sun Arena
+UFC Fight Night 2,2005-10-03T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Hard Rock Hotel and Casino
+UFC 54: Boiling Point,2005-08-20T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC Fight Night 1,2005-08-06T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Cox Pavilion
+UFC 53: Heavy Hitters,2005-06-04T04:00Z,GMT-04:00,USA,New Jersey,Atlantic City,Boardwalk Hall
+UFC 52: Couture vs Liddell 2,2005-04-16T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+The Ultimate Fighter: Team Couture vs. Team Liddell Finale,2005-04-09T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Cox Pavilion
+UFC 51: Super Saturday,2005-02-05T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 50: The War Of '04,2004-10-22T04:00Z,GMT-04:00,USA,New Jersey,Atlantic City,Boardwalk Hall
+UFC 49: Unfinished Business,2004-08-21T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 48: Payback,2004-06-19T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 47: It's On!,2004-04-02T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 46: Supernatural,2004-01-31T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 45: Revolution,2003-11-21T05:00Z,GMT-05:00,USA,Connecticut,Uncasville,Mohegan Sun Arena
+UFC 44: Undisputed,2003-09-26T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 43: Meltdown,2003-06-06T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Thomas & Mack Center
+UFC 42: Sudden Impact,2003-04-25T04:00Z,GMT-04:00,USA,Florida,Miami,American Airlines Center
+UFC 41: Onslaught,2003-02-28T05:00Z,GMT-05:00,USA,New Jersey,Atlantic City,Boardwalk Hall
+UFC 40: Vendetta,2002-11-22T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 39: The Warriors Return,2002-09-27T04:00Z,GMT-04:00,USA,Connecticut,Uncasville,Mohegan Sun Arena
+UFC 38: Brawl at the Hall,2002-07-13T04:00Z,GMT+01:00,United Kingdom,England,London,Royal Albert Hall
+UFC 37.5: As Real As It Gets,2002-06-22T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Bellagio
+UFC 37: High Impact,2002-05-10T04:00Z,GMT-05:00,USA,Louisiana,Bossier City,CenturyTel Center
+UFC 36: Worlds Collide,2002-03-22T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 35: Throwdown,2002-01-11T05:00Z,GMT-05:00,USA,Connecticut,Uncasville,Mohegan Sun Arena
+UFC 34: High Voltage,2001-11-02T05:00Z,GMT-08:00,USA,Nevada,Las Vegas,MGM Grand Garden Arena
+UFC 33: Victory in Vegas,2001-09-28T04:00Z,GMT-07:00,USA,Nevada,Las Vegas,Mandalay Bay Events Center
+UFC 32: Showdown in the Meadowlands,2001-06-29T04:00Z,GMT-04:00,USA,New Jersey,East Rutherford,Meadowlands Arena
+UFC 31: Locked and Loaded,2001-05-04T04:00Z,GMT-04:00,USA,New Jersey,Atlantic City,Trump Taj Mahal
+UFC 30: Battle on the Boardwalk,2001-02-23T05:00Z,GMT-05:00,USA,New Jersey,Atlantic City,Trump Taj Mahal
+UFC 29: Defense of the Belts,2000-12-16T05:00Z,GMT+09:00,Japan,,Tokyo,Differ Ariake Arena
+UFC 28: High Stakes,2000-11-17T05:00Z,GMT-05:00,USA,New Jersey,Atlantic City,Trump Taj Mahal
+UFC 27: Ultimate Bad Boyz,2000-09-22T04:00Z,GMT-05:00,USA,Louisiana,New Orleans,Lakefront Arena
+UFC 26: Ultimate Field Of Dreams,2000-06-09T04:00Z,GMT-05:00,USA,Iowa,Cedar Rapids,Five Seasons Events Center
+UFC 25: Ultimate Japan 3,2000-04-14T04:00Z,GMT+09:00,Japan,,Tokyo,Yoyogi National Gymnasium
+UFC 24: First Defense,2000-03-10T05:00Z,GMT-06:00,USA,Louisiana,Lake Charles,Lake Charles Civic Center
+UFC 23: Ultimate Japan 2,1999-11-19T05:00Z,GMT+09:00,Japan,,Chiba,Tokyo Bay NK Hall
+UFC 22: Only One Can be Champion,1999-09-24T04:00Z,GMT-05:00,USA,Louisiana,Lake Charles,Lake Charles Civic Center
+UFC 21: Return of the Champions,1999-07-16T04:00Z,GMT-05:00,USA,Iowa,Cedar Rapids,Five Seasons Events Center
+UFC 20: Battle for the Gold,1999-05-07T04:00Z,GMT-05:00,USA,Alabama,Birmingham,Boutwell Auditorium
+UFC 19: Ultimate Young Guns,1999-03-05T05:00Z,GMT-06:00,USA,Mississippi,Bay St. Louis,Casino Magic Bay St. Louis
+UFC 18: The Road to the Heavyweight Title,1999-01-08T05:00Z,GMT-06:00,USA,Louisiana,New Orleans,Pontchartrain Center
+UFC - Ultimate Brazil,1998-10-16T04:00Z,GMT-02:00,Brazil,,Sao Paulo,Ginasio da Portuguesa
+UFC 17: Redemption,1998-05-15T04:00Z,GMT-05:00,USA,Alabama,Mobile,Mobile Civic Center
+UFC 16: Battle in the Bayou,1998-03-13T05:00Z,GMT-06:00,USA,Louisiana,New Orleans,Pontchartrain Center
+UFC 15: Collision Course,1997-10-17T04:00Z,GMT-05:00,USA,Mississippi,Bay St. Louis,Casino Magic Bay St. Louis
+UFC 14: Showdown,1997-07-27T04:00Z,GMT-05:00,USA,Alabama,Birmingham,Boutwell Auditorium
+UFC 13: The Ultimate Force,1997-05-30T04:00Z,GMT-04:00,USA,Georgia,Augusta,Augusta Civic Center
+UFC 12: Judgement Day,1997-02-07T05:00Z,GMT-06:00,USA,Alabama,Dothan,Dothan Civic Center
+UFC - Ultimate Ultimate '96,1996-12-07T05:00Z,GMT-06:00,USA,Alabama,Birmingham,Fair Park Arena
+UFC 11: The Proving Ground,1996-09-20T04:00Z,GMT-04:00,USA,Georgia,Augusta,Augusta Civic Center
+UFC 10: The Tournament,1996-07-12T04:00Z,GMT-05:00,USA,Alabama,Birmingham,Fair Park Arena
+UFC 9: Motor City Madness,1996-05-17T04:00Z,GMT-04:00,USA,Michigan,Detroit,Cobo Arena
+UFC 8: David vs Goliath,1996-02-16T05:00Z,GMT-04:00,Puerto Rico,,San Juan,Coliseo Ruben Rodriguez
+UFC - Ultimate Ultimate '95,1995-12-16T05:00Z,GMT-07:00,USA,Colorado,Denver,Fillmore Denver
+UFC 7: The Brawl in Buffalo,1995-09-08T04:00Z,GMT-04:00,USA,New York,Buffalo,Buffalo Memorial Auditorium
+UFC 6: Clash of the Titans,1995-07-14T04:00Z,GMT-06:00,USA,Wyoming,Casper,Casper Events Center
+UFC 5: The Return of the Beast,1995-04-07T04:00Z,GMT-04:00,USA,North Carolina,Charlotte,Bojangles Coliseum
+UFC 4: Revenge of the Warriors,1994-12-16T05:00Z,GMT-06:00,USA,Oklahoma,Tulsa,Expo Square Pavilion
+UFC 3: The American Dream,1994-09-09T04:00Z,GMT-04:00,USA,North Carolina,Charlotte,Grady Cole Center
+UFC 2: No Way Out,1994-03-11T05:00Z,GMT-07:00,USA,Colorado,Denver,Fillmore Denver
+UFC 1: The Beginning,1993-11-12T05:00Z,GMT-07:00,USA,Colorado,Denver,McNichols Sports Arena
