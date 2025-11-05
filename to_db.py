@@ -2,7 +2,7 @@ import pandas as pd
 import mysql.connector
 
 
-def create_table(table_name, df, cursor, mysql_types):
+def create_table(table_name, id, key, df, cursor, mysql_types):
 
     cols = ", ".join(
         f"`{col}` {mysql_types[str(dtype)]}"
@@ -10,10 +10,10 @@ def create_table(table_name, df, cursor, mysql_types):
     )
 
     cursor.execute(
-        f"CREATE TABLE IF NOT EXISTS {table_name} (id int not null AUTO_INCREMENT, {cols}, PRIMARY KEY(id))")
+        f"CREATE TABLE IF NOT EXISTS {table_name} ({id}, {cols}, {key})")
 
 
-def insert_into(df, table, cursor, conn):
+def insert_into(table, df, cursor, conn):
 
     cols = ", ".join(df.columns)
     placeholders = ", ".join(["%s"] * len(df.columns))
@@ -43,15 +43,25 @@ def main():
     )
     cursor = conn.cursor()
 
-    datasets = [("ufc_events_29_10_2025.csv", "events"),
-                ("ufc_fighters_profiles_29_10_2025.csv", "fighters"),
-                ("ufc_fights_29_10_2025.csv", "fights")]
+    # Events Table
+    events = pd.read_csv("ufc_events_29_10_2025.csv")
+    events_table = 'events'
+    event_id = "event_id INT AUTO_INCREMENT"
+    event_key = "PRIMARY KEY (event_id)"
 
-    for dataset in datasets:
+    create_table(events_table, event_id, event_key,
+                 events, cursor, mysql_types)
+    insert_into(events_table, events, cursor, conn)
 
-        df = pd.read_csv(dataset[0])
-        create_table(dataset[1], df, cursor, mysql_types)
-        insert_into(df, dataset[1], cursor, conn)
+    # Fighters Table
+    fighters = pd.read_csv("ufc_fighters_profiles_29_10_2025.csv")
+    fighters_table = 'fighters'
+    fighter_id = "fighter_id INT AUTO_INCREMENT"
+    fighter_key = "PRIMARY KEY(fighter_id)"
+
+    create_table(fighters_table, fighter_id, fighter_key,
+                 fighters, cursor, mysql_types)
+    insert_into(fighters_table, fighters, cursor, conn)
 
 
 if __name__ == "__main__":
