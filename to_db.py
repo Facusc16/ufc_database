@@ -26,6 +26,20 @@ def insert_into(table, df, cursor, conn):
     conn.commit()
 
 
+def get_id(id_col, table, column, value, cursor):
+
+    if pd.isna(value):
+        return None
+
+    query = f"SELECT {id_col} FROM {table} WHERE {column} = %s"
+    cursor.execute(query, (value,))
+    result = cursor.fetchone()
+
+    cursor.fetchall()
+
+    return result[0] if result else None
+
+
 def main():
 
     mysql_types = {
