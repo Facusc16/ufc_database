@@ -2,15 +2,21 @@ import pandas as pd
 import mysql.connector
 
 
-def create_table(table_name, id, key, df, cursor, mysql_types):
+def create_table(table, df, mysql_types, cursor):
 
-    cols = ", ".join(
-        f"`{col}` {mysql_types[str(dtype)]}"
-        for col, dtype in zip(df.columns, df.dtypes)
-    )
+    cols = ", ".join(f"`{col}` {mysql_types[str(dtype)]}"
+                     for col, dtype in zip(df.columns, df.dtypes))
+
+    fk = f", {", ".join(f"FOREIGN KEY ({col[0]}) REFERENCES {col[1]} ({col[2]})"
+                        for col in table['fk'])}" if table['fk'] else ""
 
     cursor.execute(
-        f"CREATE TABLE IF NOT EXISTS {table_name} ({id}, {cols}, {key})")
+        f"""CREATE TABLE IF NOT EXISTS `{table['name']}` (
+            `{table['id']}` INT AUTO_INCREMENT,
+            {cols}
+            {fk},
+            PRIMARY KEY (`{table['pk']}`));"""
+    )
 
 
 def insert_into(table, df, cursor, conn):
@@ -59,23 +65,27 @@ def main():
 
     # Events Table
     events = pd.read_csv("ufc_events_29_10_2025.csv")
-    events_table = 'events'
-    event_id = "event_id INT AUTO_INCREMENT"
-    event_key = "PRIMARY KEY (event_id)"
+    events_table = {
+        'name': 'events',
+        'id': 'event_id',
+        'fk': "",
+        'pk': 'event_id'
+    }
 
-    create_table(events_table, event_id, event_key,
-                 events, cursor, mysql_types)
-    insert_into(events_table, events, cursor, conn)
+    create_table(events_table, events, mysql_types, cursor)
+    insert_into(events_table['name'], events, cursor, conn)
 
     # Fighters Table
     fighters = pd.read_csv("ufc_fighters_profiles_29_10_2025.csv")
-    fighters_table = 'fighters'
-    fighter_id = "fighter_id INT AUTO_INCREMENT"
-    fighter_key = "PRIMARY KEY(fighter_id)"
+    fighters_table = {
+        'name': 'fighters',
+        'id': 'fighter_id',
+        'fk': '',
+        'pk': 'fighter_id'
+    }
 
-    create_table(fighters_table, fighter_id, fighter_key,
-                 fighters, cursor, mysql_types)
-    insert_into(fighters_table, fighters, cursor, conn)
+    create_table(fighters_table, fighters, mysql_types, cursor)
+    insert_into(fighters_table['name'], fighters, cursor, conn)
 
 
 if __name__ == "__main__":
