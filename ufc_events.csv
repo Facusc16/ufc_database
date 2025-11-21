@@ -1,4 +1,7 @@
 name,date,time_zone,country,state,city,venue
+UFC 322: Della Maddalena vs. Makhachev,2025-11-15T23:00Z,GMT-05:00,USA,New York,New York City,Madison Square Garden
+UFC Fight Night: Bonfim vs. Brown,2025-11-08T21:00Z,GMT-08:00,USA,Nevada,Las Vegas,UFC Apex
+UFC Fight Night: Garcia vs. Onama,2025-11-01T20:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
 UFC 321: Aspinall vs. Gane,2025-10-25T14:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Etihad Arena
 UFC Fight Night: De Ridder vs. Allen,2025-10-18T20:00Z,GMT-07:00,Canada,British Columbia,Vancouver,Rogers Arena
 UFC Fight Night: Oliveira vs. Gamrot,2025-10-11T20:00Z,GMT-03:00,Brazil,Rio de Janeiro,Rio de Janeiro,Farmasi Arena
@@ -227,8 +230,6 @@ UFC 252: Miocic vs. Cormier 3,2020-08-15T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,U
 UFC Fight Night: Lewis vs. Oleinik,2020-08-08T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
 UFC Fight Night: Brunson vs. Shahbazyan,2020-08-01T23:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
 UFC Fight Night: Whittaker vs. Till,2020-07-25T21:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
-UFC Fight Night: Figueiredo vs. Benavidez 2,2020-07-18T21:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
-UFC Fight Night: Kattar vs. Ige,2020-07-15T23:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
 UFC 251: Usman vs. Masvidal,2020-07-11T22:00Z,GMT+04:00,United Arab Emirates,Abu Dhabi,Abu Dhabi,Flash Forum
 UFC Fight Night: Poirier vs. Hooker,2020-06-27T22:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
 UFC Fight Night: Blaydes vs. Volkov,2020-06-20T21:00Z,GMT-07:00,USA,Nevada,Las Vegas,UFC Apex
