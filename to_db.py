@@ -46,6 +46,28 @@ def get_id(id_col, table, column, value, cursor):
     return result[0] if result else None
 
 
+def get_new_rows(table, df, cursor):
+
+    cols_list = df.columns.tolist()
+    cols_str = ", ".join(f"`{col}`" for col in cols_list)
+    cursor.execute(f"SELECT {cols_str} FROM {table}")
+    rows = cursor.fetchall()
+
+    if not rows:
+        print("Tabla vacía, todas las filas podrán ser insertadas")
+        return df
+
+    old_rows = pd.DataFrame(rows, columns=cols_list)
+
+    df_diff = df.merge(old_rows, on=cols_list, how='left', indicator=True)
+
+    new_rows = df_diff[df_diff['_merge'] == 'left_only'].drop(columns=[
+                                                              '_merge'])
+
+    print(f"Encontradas {len(new_rows)} sin registrar")
+    return new_rows
+
+
 def main():
 
     mysql_types = {
