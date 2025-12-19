@@ -1,4 +1,5 @@
 name,date,country,city,venue
+UFC Fight Night: Royval vs. Kape,2025-12-14T00:00Z,USA,Las Vegas,UFC Apex
 UFC 323: Dvalishvili vs. Yan 2,2025-12-06T23:00Z,USA,Las Vegas,T-Mobile Arena
 UFC Fight Night: Tsarukyan vs. Hooker,2025-11-22T15:00Z,Qatar,Doha,ABHA Arena
 UFC 322: Della Maddalena vs. Makhachev,2025-11-15T23:00Z,USA,New York City,Madison Square Garden
@@ -271,7 +272,6 @@ UFC 240: Holloway vs. Edgar,2019-07-27T23:00Z,Canada,Edmonton,Rogers Place
 UFC Fight Night: Dos Anjos vs. Edwards,2019-07-20T22:00Z,USA,San Antonio,Frost Bank Center
 UFC Fight Night: De Randamie vs. Ladd,2019-07-13T21:00Z,USA,Sacramento,Golden 1 Center
 UFC 239: Jones vs. Santos,2019-07-06T22:15Z,USA,Las Vegas,T-Mobile Arena
-UFC 239: Jones vs. Santos,2019-07-06T22:15Z,USA,Las Vegas,T-Mobile Arena
 UFC Fight Night: Moicano vs. The Korean Zombie,2019-06-22T20:00Z,USA,Greenville,Bon Secours Wellness Arena
 UFC 238: Cejudo vs. Moraes,2019-06-08T22:15Z,USA,Chicago,United Center
 UFC Fight Night: Gustafsson vs. Smith,2019-06-01T14:00Z,Sweden,Stockholm,Ericsson Globe
@@ -534,7 +534,6 @@ UFC 155: Dos Santos vs Velasquez II,2012-12-29T23:30Z,USA,Las Vegas,MGM Grand Ga
 UFC on FX: Sotiropoulos vs Pearson,2012-12-14T22:00Z,Australia,Gold Coast,Gold Coast Convention and Exhibition Centre
 The Ultimate Fighter: Team Carwin vs. Team Nelson Finale,2012-12-15T22:30Z,USA,Las Vegas,Hard Rock Hotel and Casino
 UFC on FOX: Henderson vs Diaz,2012-12-08T21:20Z,USA,Seattle,Climate Pledge Arena
-UFC 154: St-Pierre vs Condit,2012-11-17T23:30Z,Canada,Montreal,Bell Centre
 UFC 154: St-Pierre vs Condit,2012-11-17T23:30Z,Canada,Montreal,Bell Centre
 UFC Macao: Franklin vs Le,2012-11-10T12:00Z,China,Macau,Cotai Arena
 UFC 153: Silva vs Bonnar,2012-10-13T23:00Z,Brazil,Rio de Janeiro,Farmasi Arena

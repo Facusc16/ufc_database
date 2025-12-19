@@ -1,4 +1,6 @@
 name,nickname,place_of_birth,age,height,reach,leg_reach,fighting_style,ufc_debut_date,professional_record,ko_tko_wins,decision_wins,submission_wins,is_active
+Lance Gibson Jr.,"""Fearless""","Seattle, United States",30.0,69.0,72.0,43.5,,"Dec. 13, 2025",9-2-0 (W-L-D),4.0,2.0,3.0,True
+Isaac Thomson,,Australia,23.0,70.0,69.5,42.0,,"Dec. 13, 2025",9-3-0 (W-L-D),4.0,4.0,1.0,True
 Danny Abbadi,"""The Assassin""","Orlando, United States",39.0,71.0,,,,"Jun. 24, 2006",2-2-0 (W-L-D),0.0,0.0,0.0,True
 Nariman Abbassov,,Kazakhstan,29.0,,,,,"Dec. 9, 2025",0-1-0 (W-L-D),0.0,0.0,0.0,True
 Tank Abbott,"""Tank""","Huntington Beach, United States",,72.0,,,,"Jul. 14, 1995",8-10-0 (W-L-D),0.0,0.0,0.0,True
